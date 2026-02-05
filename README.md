@@ -1,4 +1,5 @@
 # GEOG-AlexBeane-GEOG478
+Alex Beane
 GEOG 478 Web GIS Repo
 
 | Homeworks | Labs | Project|
